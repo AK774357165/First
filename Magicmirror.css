@@ -7,14 +7,11 @@ body{
 .botton{
     width: 54px;
     height: 54px;
-    margin-left: 20px;
-    margin-top: 20px;
+    margin-left: 1%;
+    margin-top: 1%;
     background-size: 100% 100%;
     background: url(./images/task3_03.png);
-}
-.botto a{
-    width: 54px;
-    height: 54px;
+    background-repeat: no-repeat;
 }
 .logo{
     width: 181px;
@@ -22,41 +19,32 @@ body{
     margin: 116px  auto;
     background: url(./images/task3_07.png);
     block-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 .content{
-    width: 70%;
-    height: 30px;
-    margin: auto;
+    padding: 18%;
     color: white;
-    font-weight: normal;
+    font-weight: 600;
 }
 .bottom{
     width: 100%;
     height: 130px;
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 178px;
+    margin-bottom: 109px;
 }
 .bottom .logo1{
     width: 120px;
-    height: 127px;
+    height: 125px;
     float: left;
     margin-left: 10%;
     background: url(./images/task3_11.png);
     background-repeat: no-repeat;
 }
-.bottom .logo1 a{
-    width: 120px;
-    height: 127px; 
-}
 .bottom .logo2{
-    width: 102px;
-    height: 130px;
+    width: 103px;
+    height: 125px;
     float: right;
     margin-right: 10%;
     background: url(./images/task3_14.png);
     background-repeat: no-repeat;
-}
-.bottom .logo2 a{
-    width: 102px;
-    height: 130px;
 }
